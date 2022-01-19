@@ -12,5 +12,5 @@
     ◘ In Addition to CLR Project (.NET Framework) for the GUI => c++/CLI support for v142 build tools (14.22)
 </pre>
 
-![1](https://drive.google.com/file/d/1ja9srOcsAVnBZWwG2-hbM-vD6Wlx0D_V/view?usp=sharing)
+![](Images/1.PNG)
 
