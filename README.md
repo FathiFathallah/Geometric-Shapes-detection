@@ -1,9 +1,13 @@
-# Digital-Image-Processing-repo
+# Geometric-Shapes-detection
 <pre>
-Image Processing using OpenCv.
-Image Detection using OpenCv in Python.
-Each Directory Has:
-   • The project files and the project statement as a PDF file.
+using OpenCv with Python.
+Simple Geometric-Shapes Detection:
+it takes an image as an input, and change the colors based on the shapes included into the input image
+then output a new image.
+      • CIRCLE => RED
+      • TRIANGLE => GREEN
+      • REGTANGLE => BLUE
+      • OTHER => BLACK
 </pre>
 
 ![](Digital-Image-Processing.jpg)
